@@ -1,4 +1,5 @@
-### Hi there 👋
+<h3>👋 Hi, I'm Julia</h3>
+<p>💻 I'm a student of front-end programming and a future full stack developer</p>
 
 <!--
 **JuliaMartins97/JuliaMartins97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
