@@ -5,7 +5,7 @@
 # Hello, world 👋🏻 
 
 #### My name is Julia Martins
-#### 📍 From RJ living in SP  🇧🇷 
+#### 📍 From Rio de Janeiro, Brazil living in Toronto, CA. 
 #### I'm a student of front-end programming and a future full stack developer 👩🏻‍💻
 #### I'm passionate about learning. Always open to new challenges and ready to face changes.
 
