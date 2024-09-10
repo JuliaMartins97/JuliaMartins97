@@ -3,7 +3,6 @@
 
 #### My name is Julia Martins
 #### 📍 From Rio de Janeiro, Brazil living in Toronto, CA. 
-#### I'm a front end developer and a future full stack developer 👩🏻‍💻
 #### I'm passionate about learning. Always open to new challenges and ready to face changes.
 
 #####  Reach me out 👇🏻
