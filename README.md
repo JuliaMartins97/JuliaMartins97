@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Julia Martins</h1>
 <h4 align="left">A passionate software engineer from Rio de Janeiro, Brazil. Based in Toronto, Canada.</h4>
 
-- ⚡ I’m currently working on **Arterra Wines Canada** 
+- ⚡ I’m currently working on **Apex Mobile Media** 
 
 - 🌱 I’m currently learning **Go and French**
 
